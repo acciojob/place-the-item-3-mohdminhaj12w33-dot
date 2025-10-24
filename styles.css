@@ -1,8 +1,8 @@
 
 /* Your CSS Code here. */
 .holder{
-	flex-direction:row
-	display: flex;
+	flex-direction:row;
+	
   flex-wrap: wrap; /* 👈 This allows items to move to the next row */
   gap: 10px;
 	
