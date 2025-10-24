@@ -1,6 +1,7 @@
 
-/* Your CSS Code here. */
-.holder{
-	flex-direction:row;
-	justify-content:space-around;
-	}
+.holder {
+  display: flex;
+  flex-direction: row; /* 👈 This is default, but you can include it for clarity */
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
