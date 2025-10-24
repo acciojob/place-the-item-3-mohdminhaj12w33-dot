@@ -3,7 +3,7 @@
 .holder{
 	flex-direction:row;
 	
-  flex-wrap: wrap; /* 👈 This allows items to move to the next row */
+   /* 👈 This allows items to move to the next row */
   gap: 10px;
 	
 }
