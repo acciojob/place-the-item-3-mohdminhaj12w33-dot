@@ -2,8 +2,5 @@
 /* Your CSS Code here. */
 .holder{
 	flex-direction:row;
-	
-   /* 👈 This allows items to move to the next row */
-  gap: 10px;
-	
-}
+	justify-content:space-around;
+	}
